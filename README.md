@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+-  iOS engineer at [Moneytree](https://github.com/moneytree)
+- 📚 Passionate iOS engineer from 2011 until now
+- 📫 For any enquiries, reach out to [franco.octavianus@gmail.com](mailto:franco.octavianus@gmail.com)
+
 <!--
 **franco-octavianus/franco-octavianus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
