@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--  iOS engineer at [Moneytree](https://github.com/moneytree)
-- 📚 Passionate iOS engineer from 2011 until now
+-  iOS engineer at [ANZ](https://anz.com.au), previously at [Invoice2go](https://invoice2go.com), [Moneytree](https://getmoneytree.com).
+- 📚 Passionate iOS engineer from 2011.
 - 📫 For any enquiries, reach out to [franco.octavianus@gmail.com](mailto:franco.octavianus@gmail.com)
 
 <!--
