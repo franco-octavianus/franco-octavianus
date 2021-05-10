@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  iOS engineer at [ANZ](https://anz.com.au), previously at [Invoice2go](https://invoice2go.com), [Moneytree](https://getmoneytree.com).
+-  iOS at [RapidAI](https://rapidai.com), previously at [Invoice2go](https://invoice2go.com), [Moneytree](https://getmoneytree.com), [ANZ](https://anz.com.au).
 - 📚 Passionate iOS engineer from 2011.
 - 📫 For any enquiries, reach out to [franco.octavianus@gmail.com](mailto:franco.octavianus@gmail.com)
 
